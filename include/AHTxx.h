@@ -1,12 +1,11 @@
 /***************************************************************************************************/
 /*
-   ESP-IDF port for AHTxx library for Aosong ASAIR AHT10/AHT15/AHT20/AHT21/AHT25/AM2301B/AM2311B.
+   ESP-IDF port of AHTxx library for Aosong ASAIR AHT10/AHT15/AHT20/AHT21/AHT25/AM2301B/AM2311B.
 
    Adapted by : Kuro
-   source code: https://github.com/enjoyneering/
+   Source code: https://github.com/kurozz/ESP32_AHTxx
 
-   Original written by : enjoyneering
-   source code: https://github.com/enjoyneering/
+   Forked from https://github.com/enjoyneering/AHTxx written by : enjoyneering
 
    Aosong ASAIR AHT1x/AHT2x features:
    - AHT1x +1.8v..+3.6v, AHT2x +2.2v..+5.5v
