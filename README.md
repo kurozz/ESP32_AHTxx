@@ -1,5 +1,4 @@
-[![license-badge][]][license] ![version] [![stars][]][stargazers] ![hit-count] [![github-issues][]][issues]
-
+[![license-badge][]][license]
 # Aosong ASAIR AHT1x/AHT2x
 
 ESP-IDF port of AHTxx library for Aosong ASAIR AHT10/AHT15/AHT20/AHT21/AHT25/AM2301B/AM2311B.
