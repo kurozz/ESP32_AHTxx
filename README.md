@@ -2,7 +2,7 @@
 
 # Aosong ASAIR AHT1x/AHT2x
 
-This is an Arduino library for _Aosong ASAIR_ AHT10/AHT15/AHT20/AHT21/AHT25/AM2301**B**/AM2311**B** Digital Humidity & Temperature Sensor
+ESP-IDF port of AHTxx library for Aosong ASAIR AHT10/AHT15/AHT20/AHT21/AHT25/AM2301B/AM2311B.
 
 - AHT1x +1.8v..+3.6v, AHT2x +2.2v..+5.5v
 - AHT1x 0.25μA..320μA, AHT2x 0.25μA..980μA
@@ -36,9 +36,3 @@ Tested on:
 
 [license-badge]: https://img.shields.io/badge/License-GPLv3-blue.svg
 [license]:       https://choosealicense.com/licenses/gpl-3.0/
-[version]:       https://img.shields.io/badge/Version-1.2.0-green.svg
-[stars]:         https://img.shields.io/github/stars/enjoyneering/AHTxx.svg
-[stargazers]:    https://github.com/enjoyneering/AHTxx/stargazers
-[hit-count]:     https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fenjoyneering%2FAHTxx&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false
-[github-issues]: https://img.shields.io/github/issues/enjoyneering/AHTxx.svg
-[issues]:        https://github.com/enjoyneering/AHTxx/issues/
